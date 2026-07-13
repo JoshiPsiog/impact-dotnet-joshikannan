@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="Day1_OOP/Day1_OOP.csproj" />
+  <Project Path="Day2_OOP/Day2_OOP.csproj" />
+  <Project Path="Day3_Delegates/Day3_Delegates.csproj" />
+  <Project Path="Day4_Generics/Day4_Generics.csproj" />
+  <Project Path="Day5_Extensions/Day5_Extensions.csproj" />
+  <Project Path="MiniQ4_EmployeePayroll/MiniQ4_EmployeePayroll.csproj" />
+  <Project Path="MiniQ5_NotificationEngine/MiniQ5_NotificationEngine.csproj" />
+  <Project Path="MiniQ6_LibraryManagement/MiniQ6_LibraryManagement.csproj" />
+</Solution>
